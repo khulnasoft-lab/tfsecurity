@@ -19,7 +19,7 @@ Going forward we want to encourage the tfsecurity community to transition over t
 
 1. Access to more languages and features in the same tool.
 2. Access to more integrations with tools and services through the rich ecosystem around Vul.
-3. Commercially supported by KhulnaSoft as well as by a the passionate Vul community.
+3. Commercially supported by KhulnaSofta as well as by a the passionate Vul community.
 tfsecurity will continue to remain available for the time being, although our engineering attention will be directed at Vul going forward.
 
 ## tfsecurity to Vul migration guide
@@ -43,7 +43,7 @@ Designed to run locally and in your CI pipelines, developer-friendly output and 
   <figcaption>Demo: Misconfiguration Detection</figcaption>
 </figure>
 
-`tfsecurity` is an [KhulnaSoft Security][khulnasoft] open source project.  
+`tfsecurity` is an [KhulnaSofta Security][khulnasoft] open source project.  
 Learn about our open source work and portfolio [here][oss].  
 Contact us about any matter by opening a GitHub Discussion [here][discussions]
 
