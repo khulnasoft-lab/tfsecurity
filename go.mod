@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/tfsecurity
+module github.com/khulnasoft-lab/tfsecurity
 
 go 1.19
 
@@ -8,7 +8,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-version v1.6.0
 	github.com/inconshreveable/go-update v0.0.0-20160112193335-8152e7eb6ccf
-	github.com/khulnasoft-labs/defsec v1.0.2
+	github.com/khulnasoft-lab/defsec v1.0.2
 	github.com/liamg/clinch v1.6.1
 	github.com/liamg/gifwrap v0.0.7
 	github.com/liamg/tml v0.6.0
