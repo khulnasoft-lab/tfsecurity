@@ -1,4 +1,4 @@
-name: tfsecurity github docker release
+name: tfsec github docker release
 
 on:
   push:
@@ -15,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-go@v4
+      - uses: actions/setup-go@v3
         with:
           go-version-file: go.mod
           cache: true
